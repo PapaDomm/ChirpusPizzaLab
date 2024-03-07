@@ -1,0 +1,8 @@
+.soldOut{
+    color: rgb(161, 2, 2);
+    text-decoration: line-through;
+}
+
+th{
+    font-size: 3.5rem;
+}
